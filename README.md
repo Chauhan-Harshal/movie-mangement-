@@ -60,4 +60,4 @@ The **Movie Management System** is a full-stack web application built using the 
 
 ## 🚀 Live Demo
 
-[Click here to view the demo](https://drive.google.com/file/d/1thnigsSEAaAYdV7qGKDlT26rYm05EiBz/view?usp=sharing)
+
