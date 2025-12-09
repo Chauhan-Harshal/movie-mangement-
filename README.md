@@ -56,3 +56,8 @@ The **Movie Management System** is a full-stack web application built using the 
     │   │   └── movie_Controllers.js                 # 🎬 Movie CRUD Controller
     │   │
     │   ├── middleware/
+# 🎬 Movie Management System — MERN + HTML/CSS
+
+## 🚀 Live Demo
+
+[Click here to view the demo](https://drive.google.com/file/d/1thnigsSEAaAYdV7qGKDlT26rYm05EiBz/view?usp=sharing)
