@@ -59,5 +59,15 @@ The **Movie Management System** is a full-stack web application built using the 
 # 🎬 Movie Management System — MERN + HTML/CSS
 
 ## 🚀 Live Demo
+## 🎥 Demo Video
+
+## 🎥 Demo Video
+
+[![Watch Demo](demo.png)](https://github.com/YOUR_USERNAME/YOUR_REPO/assets/ASSET_ID/demo.mp4)
+
+Or click here to watch directly:  
+[▶ Watch Demo Video](https://github.com/YOUR_USERNAME/YOUR_REPO/assets/ASSET_ID/demo.mp4)
+
+
 
 
