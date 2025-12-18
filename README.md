@@ -58,7 +58,7 @@ The **Movie Management System** is a full-stack web application built using the 
     │   ├── middleware/
 # 🎬 Movie Management System — MERN + HTML/CSS
 
-<!-- Failed to upload "Movie Management System - BIG PICTURES - Google Chrome 2025-12-09 17-21-17.mp4" -->
+
 
 
 
